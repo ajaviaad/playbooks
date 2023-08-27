@@ -2,9 +2,9 @@
 [[_TOC_]]
 
 # IR Playbooks
-This repository contains all the Incident Response Playbooks and Workflows of Company's SOC.
+These repo contains playbooks that can be leveraged for incident response in organization.
 
-Each folder contains a Playbook that is broken down into 6 section as per [NIST - 800.61 r2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
+These playbooks are divided in to various sections in line with NIST 800-61 [NIST - 800.61 r2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 
 ## 1- Preparation
 This section should include the following informations
