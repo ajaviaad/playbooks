@@ -1,0 +1,1 @@
+# playbooks contain 6 incident response playbooks that organizations can leverage for establishing and strenghening already established SOC. These playbooks are strictly in accordance with NIST SP 800-61 Rev. 2, Computer Security Incident Handling Guide.
