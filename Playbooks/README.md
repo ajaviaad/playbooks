@@ -2,7 +2,7 @@
 [[_TOC_]]
 
 # IR Playbooks
-This repository contains playbooks that can be leveraged for incident response in organization.
+This repository contains playbooks that can be leveraged for incident response at nOps.
 
 These playbooks are divided in to various sections in line with NIST 800-61 [NIST - 800.61 r2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 
